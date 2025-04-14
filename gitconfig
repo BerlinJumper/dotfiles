@@ -53,15 +53,9 @@
 
 [branch "master"]
   mergeoptions = --no-edit
-<<<<<<< HEAD
-[user]
-	email = fabian.tewes@gmail.com
-	name = Fabian Tewes
-=======
 
 [pull]
   rebase = false
 
 [init]
   defaultBranch = master
->>>>>>> upstream/master
